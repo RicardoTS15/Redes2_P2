@@ -1,0 +1,20 @@
+En el archivo Lista.txt estan enlistados los nombres de todos los articulos disponibles.
+Los nombres que contiene deben ser igual a los txt con la informacion de cada articulo.
+P.e: en el archivo Lista.txt está el nombre de un articulo llamado xboxOne que hace referencia 
+a xboxOne.txt
+
+En el archivo xboxOne.txt viene la informacion detallada del producto.
+P.e:
+	Xbox One
+	5000.00
+	Halo 5 Guardianes, que ofrece experiencias multijugador épicas que abarcan múltiples modos, herramientas de construcción con todas las funciones de nivel, y la historia de halo más espectacular hasta la fecha.
+	15
+	as235rejpoew934jt0385nwjwn456jjndjidrre9w023oi23ne9ds921k293954jtmdfsids9as92023j34newmdsa98das9qwjqewjqewj9wdas9das0qwkqewj23l23klljres89asd9230i432jwellekjds9das89hloikjer8ew9345jhwhsdahdasudas8qw8934
+	qaoirewnkrewrewoiqewoji897kj23kjliqewu8quew89qewy23hij6b567hj567vghc678678789yg678g65huhu43h434uiyey7ew7ye78e678dsdsadasdvsgjhjrewbh34bh545456bnj56huudfsdyfus89dfs89ud8u9xczuds90u90uqewu2o2o3ji9023ew2893ue83ue83ue8uewr4
+
+Donde:
+	La primer línea es el "alías" del pruducto, la segunda linea es el precio del producto,
+	la tercer línea es la descripcion completa del articulo
+	la cuarta línea es la cantidad en stock del producto
+	la quinta linea es para la imagen frontal en formato base 64
+	la sexta linea es para la imagen lateral en formato base 64
